@@ -95,7 +95,7 @@ button {
 }
 /*Hero Image*/
 .heroImg {
-    height: 445px;
+    height:600px;
     padding: 25px;
     display: flex;
     justify-content: center;
